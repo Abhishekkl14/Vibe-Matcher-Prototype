@@ -1,6 +1,7 @@
 # Vibe-Matcher-Prototype
 
 **Vibe Matcher**
+
 Ever tried searching for clothes online but couldn't find the right words? You're not looking for a "blue shirt," you're looking for a "chill, beachy, summer vibe." This project is a simple prototype of a search engine that gets that.It's a "Vibe Matcher"! Instead of matching keywords, it matches meaning and feeling. This script is a hands-on demo of how modern "semantic search" works, all in one runnable Python file.
 
 **How it Works**
